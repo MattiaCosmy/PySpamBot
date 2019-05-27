@@ -58,7 +58,7 @@ def gather():
         print('Spam terminato')
     elif sPhrase == 2:
         spam()
-        print('Spamm frase già pronta')
+        print('Spam frase già pronta')
     else:
         print('Selezione non valida. Riprova.')
         gather()
